@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://umesh:Password9@cluster0-kxoxb.mongodb.net/MERN-Socialblog?retryWrites=true&w=majority"
+}
